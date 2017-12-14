@@ -1,0 +1,35 @@
+Trabalho feita para a matéria de Computação Gráfica.
+
+Baseado fortemente em https://learnopengl.com/#!In-Practice/2D-Game/Breakout.
+
+Dependências usadas: SFML, GL, GLU, GLEW, SOIL
+
+Comandos:
+
+	W - Move nave espacial para cima
+	D - Move nave espacial para direita
+	A - Move nave espacial para esquerda
+	S - Move nave espacial para baixo
+	1 - Efeito 1 (inversão de cores e coordenadas)
+	2 - Efeito 2 (tremer a tela)
+	3 - Efeito 3 (bordas ressaltadas)
+	0 - Voltar ao normal
+
+English:
+
+School work made for Computer Graphics class.
+
+Heavily based on https://learnopengl.com/#!In-Practice/2D-Game/Breakout.
+
+Dependencies: SFML, GL, GLU, GLEW, SOIL
+
+Commands:
+
+	W - Move the space ship up
+	D - Move the space ship to the right
+	A - Move the space ship to the left
+	S - Move the space ship down
+	1 - Effect 1 (colors and coordinates inversion)
+	2 - Effect 2 (shake the screen)
+	3 - Effect 3 (highlighted edges)
+	0 - Go back to normal
